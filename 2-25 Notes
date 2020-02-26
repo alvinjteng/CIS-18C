@@ -1,0 +1,15 @@
+Abstraction:
+  [     ] block     Generalize
+  /     \               |
+[ ]     [ ]             |
+/ \     / \             |
+[] []  []  []       Specialize
+
+Modularity:
+[]--[]--[]
+   / | \
+[]  []  []
+
+Encapsulation: getters and setters
+
+aspect oriented programming
